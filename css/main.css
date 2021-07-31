@@ -1,0 +1,290 @@
+body{
+    background-color:#E5E5E5;
+}
+html{
+    scroll-behavior: smooth;
+}
+.azo{
+    font-size:16px;
+    font-weight:500;
+    user-select: none;
+}
+.azo:hover{
+    text-decoration: underline dodgerblue;
+}
+.input-group input{
+    background-color: #E5E5E5;
+    outline: none;
+    border: 0;
+    width:473px;
+    height: 45px;
+}
+.input-group button{
+    background-color: #E5E5E5;
+    outline: none;
+    border: 0;
+}
+.input-group{
+    border-radius: 3px;
+}
+.input-group button img{
+  width: 13.5px;
+  height: 13.5px;
+    margin-right: 19.5px;
+}
+.input-group input:focus{
+    outline: none;
+}
+.input-group button:focus{
+    outline: none;
+}
+.logo{
+    width: 136.06px;
+    height: 26.37px;
+}
+.kurslar1{
+    width: 86px;
+    height: 21px;
+}
+.kirishperson{
+    width: 22px;
+    height: 22px;
+    margin-right: 13px;
+    margin-top:3px;
+}
+.userselect{
+    user-select: none;
+}
+body .container-fluid:nth-child(2){
+    background-image: url("../images/startshape.png");
+    position: relative;
+    background-repeat:no-repeat;
+    margin-bottom:105px;
+    margin-right: auto;
+    margin-left: auto;
+    background-position: center;
+}
+.startshape .input-group{
+width: 920px;
+    height: 70px;
+    margin-bottom:87px;
+}
+
+.startshape .input-group button p{
+margin: auto;
+}
+.startshape .input-group button{
+ width: 90px;
+    margin: 8px;
+    height: 54px;
+    border-radius: 0;
+}
+.startshape .container h1:nth-child(1){
+    padding-top: 95px;
+    font-weight: 700;
+    font-size: 65px;
+}
+.startshape .container h1:nth-child(2){
+    padding-bottom: 57px;
+    font-weight: 700;
+    font-size: 65px;
+}
+.lines{
+    width: 160px;
+    height: 188px;
+    background-color: white;
+    padding-top: 70px;
+    box-sizing: border-box;
+    margin-bottom:28px;
+    border-radius: 3px;
+    opacity: 0.7;
+}
+.opacityline{
+    opacity: 1;
+}
+
+.bolimlar{
+    margin-bottom:33px;
+}
+.cofee{
+    padding-top:147px;
+    padding-left:64px;
+    box-sizing:border-box;
+}
+.maroqli{
+    width:350px;
+    height: 401px;
+    border-radius: 3px;
+}
+.cofee img{
+    width: 73px;
+    height: 114px;
+}
+.wantedtime{
+    margin-top: 96px;
+    width: 1275px;
+    height: 455px;
+    margin-bottom: 97px;
+    transform: translateX(-50px);
+}
+
+.wantedtxt{
+    font-size: 65px;
+    font-weight: 700;
+}
+.wanted{
+    margin: 80px 67px 157.23px 165px;
+}
+.logowanted{
+    margin-left: 165px;
+
+}
+.card{
+    margin-top: 30px;
+    position: relative;
+}
+.popularcourse{
+    font-size:30px;
+    font-weight:500;
+    margin-bottom: 8px;
+}
+.cardp1{
+    font-size: 14px;
+    font-weight: 400;
+    padding: 0 3px 5px 5px;
+    margin: 0;
+}
+.cardp2{
+    font-size: 12px;
+    color: grey;
+    font-weight: 400;
+    padding: 0 5px 5px 5px;
+    margin: 0;
+}
+.cardp3{
+    font-size: 18px;
+    font-weight: 400;
+}
+.cardimg12{
+    width: 50px;
+    height: 50px;
+}
+.degree{
+    width: 34px;
+    height:8px;
+    padding-right: 2px;
+
+}
+.cardp4{
+    font-size: 12px;
+    color: grey;
+    font-weight: 400;
+    margin-left: 10px;
+   transform: translateY(-5px);
+}
+.card hr{
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding:0;
+}
+.star{
+    width: 16px;
+    height:16px;
+    margin-top:4px;
+}
+.star100{
+    margin-top: 3px;
+}
+.l1,.l2,.l3{
+    width:25px;
+    height:25px;
+}
+.l2{
+    transform: translateX(-10px);
+}
+.l3{
+    transform: translateX(-20px);
+}
+.clock{
+    background-color: rgba(0, 0, 0, 0.26);
+    position: absolute;
+    top: 21px;
+    right: 25px;
+    border-radius:13px;
+    width:83px;
+    height:26px;
+}
+.clock img{
+    width:14.4px;
+    height:14.4px;
+    margin-top:6px;
+    margin-left:8px;
+    padding:0;
+}
+.clock p{
+    font-size:12px;
+  font-weight:400;
+    margin-top:3px;
+    margin-left:8.6px;
+    padding:0;
+}
+.pro{
+border-radius:14px;
+  background-color: white;
+    position: absolute;
+    top:-14px;
+    left:31px;
+
+    outline: transparent;
+
+}
+.bg-black{
+    width: 35px;
+    height: 20px;
+    border-radius: 9.75px;
+    background-color: #2F2F2F;
+    margin: 4px;
+}
+.pro p{
+    font-size: 9px;
+    font-weight: 600;
+    color: white;
+    padding:4px 8px 5px 9px;
+}
+.card-body{
+    position: relative;
+}
+.aboutus{
+    margin-top:96px;
+}
+.aboutustxt{
+
+    font-size:30px;
+    font-weight:500;
+
+
+}
+
+.bgwhite{
+    width:918px;
+    height:414px;
+    padding: 40px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.bgimg{
+    width: 248px;
+    height: 251px;
+    z-index: 1;
+    position: absolute;
+    top: 60px;
+    right: -40px;
+}
+.tania{
+    width: 330px;
+    height: 335px;
+    z-index: 2;
+transform: translate(600px,-300px);
+
+}
